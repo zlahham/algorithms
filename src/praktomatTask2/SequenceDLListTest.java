@@ -1,4 +1,4 @@
-package praktomatTwo;
+package praktomatTask2;
 
 public class SequenceDLListTest {
         public static void main(String[] args) {

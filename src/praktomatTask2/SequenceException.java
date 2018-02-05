@@ -1,4 +1,4 @@
-package praktomatTwo;
+package praktomatTask2;
 
 public class SequenceException extends Exception {
     public SequenceException() {

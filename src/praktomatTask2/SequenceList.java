@@ -1,4 +1,4 @@
-package praktomatTwo;
+package praktomatTask2;
 
 /**
  * Implementation of Sequence ADT using a linked list.
